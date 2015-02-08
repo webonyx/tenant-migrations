@@ -1,0 +1,17 @@
+{
+  "name": "webonyx/tenant-migrations",
+  "type": "library",
+  "description": "Custom doctrine data migration tool for webonyx",
+  "keywords": [
+    "migrations",
+    "database"
+  ],
+  "homepage": "https://github.com/webonyx/tenant-migrations",
+  "license": "LGPL",
+  "authors": [
+    {
+      "name": "Hung Nguyen",
+      "email": "hung@webonyx.com"
+    }
+  ]
+}
